@@ -4,6 +4,9 @@ Multiclass ML system predicting loan outcomes (Approved / Pending / Rejected) fr
 
 
 *Compared XGBoost, LightGBM, Random Forest, and a Backpropagation Neural Network
+
 *Best model: XGBoost — 73.8% accuracy, 0.876 macro AUC after heuristic hyperparameter tuning
+
 *Built interactive customer-level risk lookup tools (DTI ratio, credit score, risk category)
+
 *Stack: Python, scikit-learn, XGBoost, LightGBM, TensorFlow/Keras, Pandas
